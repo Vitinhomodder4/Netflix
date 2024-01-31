@@ -1,6 +1,6 @@
 {
-  "versionCode": 14540,
-  "versionName": "4.13.0 build 14540",
+  "versionCode": 14641,
+  "versionName": "4.16.2 build 14641",
   "Msg": "Olá acabamos de atualizar nosso aplicativo injector, faça download dele agora mesmo para continuar usando.
 
 O que há de novo:
